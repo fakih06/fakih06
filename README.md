@@ -22,7 +22,6 @@
   - 🌏 Languages
     - 🇮🇩 Indonesian
     - 🇬🇧 English
-
 ### Languages and Tools 💻
 <table align="center">
   <tr>
@@ -84,7 +83,10 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="36" />
       <br/>JavaScript
     </td>
-   
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="36" />
+      <br/>TypeScript
+    </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
       <br/>Node.js
@@ -101,13 +103,22 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="36" />
       <br/>C++
     </td>
-  
+    <td align="center" width="72">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="36" />
+      <br/>Rust
+    </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="36" />
       <br/>PHP
     </td>
-  
-  
+    <td align="center" width="72">
+      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="36" />
+      <br/>Pascal
+    </td>
+    <td align="center" width="72">
+      <img src="images/icons/ejs.svg" height="36" />
+      <br/>EJS
+    </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="36" />
       <br/>Golang
@@ -119,7 +130,14 @@
       <img src="images/icons/express.svg" height="36" />
       <br/>Express.js
     </td>
-
+    <td align="center" width="72">
+      <img src="https://docs.nestjs.com/assets/logo-small.svg" height="36" />
+      <br/>Nest.js
+    </td>
+    <td align="center" width="72">
+      <img src="https://telegraf.js.org/media/logo.svg" height="36" />
+      <br/>Telegraf
+    </td>
   </tr>
   <tr>
     <th>
@@ -172,14 +190,3 @@
     </td>
   </tr>
 </table>
-
-### Stats 📋
-<p align="center">
-  <img align="center" src="https://metrics.lecoq.io/tfkhdyt" alt="Github Metrics" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tfkhdyt&theme=github_dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tfkhdyt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tfkhdyt&count_private=true&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfkhdyt&langs_count=10&theme=tokyonight&layout=compact&hide=css,scss,less,html,hack" />
-  <img alt="mad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tfkhdyt&bg_color=1A1B27&color=70A4FC&line=70A4FC&point=FFFFFF&hide_border=true&" />
-</p>
-
