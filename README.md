@@ -38,10 +38,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="36" />
       <br/>JavaScript
     </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="36" />
-      <br/>TypeScript
-    </td>
+    
   </tr>
   <tr>
     <th>Front-end Framework</th>
