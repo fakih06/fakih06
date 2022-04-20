@@ -140,10 +140,10 @@
     <th>
       Databases
     </th>
-    <td align="center" width="72">
+<!--     <td align="center" width="72">
       <img src="images/icons/mongo.svg" height="36"/>
       <br/>MongoDB
-    </td>
+    </td> -->
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" height="36"/>
       <br/>MySQL
@@ -157,10 +157,10 @@
     <th>
       Hosting
     </th>
-    <td align="center" width="72">
+<!--     <td align="center" width="72">
       <img src="images/icons/firebase.svg" height="36"/>
       <br/>Firebase
-    </td>
+    </td> -->
     <td align="center" width="72">
       <img src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67" height="36"/>
       <br/>Vercel
@@ -169,18 +169,18 @@
       <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" height="36"/>
       <br/>Netlify
     </td>
-    <td align="center" width="72">
+<!--     <td align="center" width="72">
       <img src="images/icons/heroku.svg" height="36"/>
       <br/>Heroku
-    </td>
+    </td> -->
     <td align="center" width="72">
       <img src="https://s3.amazonaws.com/technori-bucket/wordpress/wp-content/uploads/2017/08/30015258/fly-logo.png" height="36"/>
       <br/>Fly.io
     </td>
-    <td align="center" width="72">
+<!--     <td align="center" width="72">
       <img src="images/icons/rumahweb.png" height="36"/>
       <br/>rumahweb
-    </td>
+    </td> -->
     <td align="center" width="72">
       <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/47fcb9400000640005023f0b/0x0.png" height="36"/>
       <br/>000webhost
