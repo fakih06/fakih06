@@ -11,7 +11,7 @@
   </a>
 </p>
 
-#### Software Engineering Studen and Open Source Software Enthusiast, and Professional Googler*
+#### A Software Engineering Student at Telkom University. He is an Open Source Software Enthusiast and Professional Googler*
 <sub><sup>* I don't use Google Search anymore, it's only a slang for "internet surfer". I prefer using <a href="https://paulgo.io">SearXNG</a></sup></sub>
 
 ### About Me 👨🏻
