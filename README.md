@@ -109,32 +109,18 @@
       <br/>PHP
     </td>
     <td align="center" width="72">
-      <img src="https://wiki.freepascal.org/images/f/fd/Lazarus-icons-lpr-proposal-bpsoftware.png" height="36" />
-      <br/>Pascal
-    </td>
-    <td align="center" width="72">
-      <img src="images/icons/ejs.svg" height="36" />
-      <br/>EJS
-    </td>
-    <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" height="36" />
       <br/>Golang
     </td>
   </tr>
   <tr>
     <th>Back-end Framework</th>  
-    <td align="center" width="72">
-      <img src="images/icons/express.svg" height="36" />
-      <br/>Express.js
-    </td>
+    
     <td align="center" width="72">
       <img src="https://docs.nestjs.com/assets/logo-small.svg" height="36" />
       <br/>Nest.js
     </td>
-    <td align="center" width="72">
-      <img src="https://telegraf.js.org/media/logo.svg" height="36" />
-      <br/>Telegraf
-    </td>
+    
   </tr>
   <tr>
     <th>
