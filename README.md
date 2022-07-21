@@ -115,7 +115,6 @@
   </tr>
   <tr>
     <th>Back-end Framework</th>  
-    
     <td align="center" width="72">
       <img src="https://docs.nestjs.com/assets/logo-small.svg" height="36" />
       <br/>Nest.js
