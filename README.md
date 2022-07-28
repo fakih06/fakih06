@@ -43,14 +43,6 @@
   <tr>
     <th>Front-end Framework</th>
     <td align="center" width="72">
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="36" />
-      <br/>React.js
-    </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="36" />
-      <br/>Next.js
-    </td>
-    <td align="center" width="72">
       <img src="images/icons/jquery.svg" height="36" />
       <br/>jQuery
     </td>
@@ -60,10 +52,6 @@
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="36" />
       <br/>Bootstrap
-    </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="36" />
-      <br/>TailwindCSS
     </td>
     <td align="center" width="72">
       <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" height="36" />
@@ -81,10 +69,6 @@
       <br/>JavaScript
     </td>
     <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="36" />
-      <br/>TypeScript
-    </td>
-    <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="36"/>
       <br/>Node.js
     </td>
@@ -99,10 +83,6 @@
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="36" />
       <br/>C++
-    </td>
-    <td align="center" width="72">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="36" />
-      <br/>Rust
     </td>
     <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="36" />
