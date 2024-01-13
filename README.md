@@ -35,6 +35,10 @@
       <br/>CSS
     </td>
     <td align="center" width="72">
+      <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" height="36" />
+      <br/>Dart
+    </td>
+    <td align="center" width="72">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="36" />
       <br/>JavaScript
     </td>
