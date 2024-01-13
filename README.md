@@ -43,7 +43,7 @@
   <tr>
     <th>Front-end Framework</th>
     <td align="center" width="72">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fflutter.dev%2Fbrand&psig=AOvVaw1FqxY21TMFndlKGC3o4RWI&ust=1705211947545000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCND939TX2YMDFQAAAAAdAAAAABAE" height="36" />
+      <img src="https://storage.googleapis.com/cms-storage-bucket/847ae81f5430402216fd.svg" height="36" />
       <br/>Flutter
     </td>
   </tr>
